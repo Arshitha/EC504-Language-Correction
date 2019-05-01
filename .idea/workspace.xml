@@ -1,0 +1,1150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fee1026b-2962-402e-b4aa-8f817ea55d29" name="Default Changelist" comment="Added readme">
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/bu/ec504/spr19/group3/gui/UnifiedGui.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/bu/ec504/spr19/group3/gui/UnifiedGui.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/edu.bu.ec504.spr19.group3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/edu.bu.ec504.spr19.group3.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/install.txt" beforeDir="false" afterPath="$PROJECT_DIR$/install.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/bu/ec504/spr19/group3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/bu/ec504/spr19/group3/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/bu/ec504/spr19/group3/checker/Checker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/bu/ec504/spr19/group3/checker/Checker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/bu/ec504/spr19/group3/database/Database.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/bu/ec504/spr19/group3/database/Database.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/bu/ec504/spr19/group3/database/Edge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/bu/ec504/spr19/group3/database/Edge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/bu/ec504/spr19/group3/gui/Gui.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/bu/ec504/spr19/group3/gui/Gui.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/bu/ec504/spr19/group3/highlighter/MyHighlighter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/bu/ec504/spr19/group3/highlighter/MyHighlighter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/bu/ec504/spr19/group3/list/MyJList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/bu/ec504/spr19/group3/list/MyJList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/bu/ec504/spr19/group3/speechRecognition/speechToText.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/bu/ec504/spr19/group3/speechRecognition/speechToText.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/bu/ec504/spr19/group3/speechRecognition/textToSpeech.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/bu/ec504/spr19/group3/speechRecognition/textToSpeech.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/bu/ec504/spr19/group3/tokenizer/ArTokenizer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/bu/ec504/spr19/group3/tokenizer/ArTokenizer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/bu/ec504/spr19/group3/tokenizer/GermanTokenizer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/bu/ec504/spr19/group3/tokenizer/GermanTokenizer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/bu/ec504/spr19/group3/tokenizer/Tokenizer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/bu/ec504/spr19/group3/tokenizer/Tokenizer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tagger_files/arabic.tagger" beforeDir="false" afterPath="$PROJECT_DIR$/external_files/arabic.tagger" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tagger_files/arabic.tagger.props" beforeDir="false" afterPath="$PROJECT_DIR$/external_files/arabic.tagger.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tagger_files/chinese-distsim.tagger" beforeDir="false" afterPath="$PROJECT_DIR$/external_files/chinese-distsim.tagger" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tagger_files/chinese-distsim.tagger.props" beforeDir="false" afterPath="$PROJECT_DIR$/external_files/chinese-distsim.tagger.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tagger_files/english-left3words-distsim.tagger" beforeDir="false" afterPath="$PROJECT_DIR$/external_files/english-left3words-distsim.tagger" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tagger_files/english-left3words-distsim.tagger.props" beforeDir="false" afterPath="$PROJECT_DIR$/external_files/english-left3words-distsim.tagger.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tagger_files/german-dewac.tagger" beforeDir="false" afterPath="$PROJECT_DIR$/external_files/german-dewac.tagger" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tagger_files/german-dewac.tagger.props" beforeDir="false" afterPath="$PROJECT_DIR$/external_files/german-dewac.tagger.props" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/edu/bu/ec504/spr19/group3/checker/Checker.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1610">
+              <caret line="95" column="11" lean-forward="true" selection-start-line="95" selection-start-column="11" selection-end-line="95" selection-end-column="11" />
+              <folding>
+                <element signature="e#2914#2915#0" expanded="true" />
+                <element signature="e#2993#2994#0" expanded="true" />
+                <element signature="e#3358#3359#0" expanded="true" />
+                <element signature="e#3437#3438#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/edu/bu/ec504/spr19/group3/gui/UnifiedGui.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="199">
+              <caret line="155" column="17" lean-forward="true" selection-start-line="155" selection-start-column="17" selection-end-line="155" selection-end-column="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#3807#3808#0" expanded="true" />
+                <element signature="e#3886#3887#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/edu/bu/ec504/spr19/group3/speechRecognition/speechToText.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="161">
+              <caret line="20" column="25" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/edu/bu/ec504/spr19/group3/speechRecognition/textToSpeech.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="368">
+              <caret line="38" column="49" lean-forward="true" selection-start-line="38" selection-start-column="49" selection-end-line="38" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/edu/bu/ec504/spr19/group3/gui/UnifiedGui.form">
+          <provider selected="true" editor-type-id="ui-designer" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/edu/bu/ec504/spr19/group3/tokenizer/Tokenizer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="83" column="147" lean-forward="true" selection-start-line="83" selection-start-column="47" selection-end-line="83" selection-end-column="147" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/edu/bu/ec504/spr19/group3/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="276">
+              <caret line="36" column="56" lean-forward="true" selection-start-line="36" selection-start-column="56" selection-end-line="36" selection-end-column="56" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/install.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="383">
+              <caret line="53" column="39" selection-start-line="53" selection-start-column="39" selection-end-line="53" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/edu/bu/ec504/spr19/group3/tokenizer/ChineseTokenizer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="276">
+              <caret line="18" column="61" selection-start-line="18" selection-start-column="61" selection-end-line="18" selection-end-column="61" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/edu/bu/ec504/spr19/group3/tokenizer/GermanTokenizer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="439">
+              <caret line="94" column="133" lean-forward="true" selection-start-line="94" selection-start-column="47" selection-end-line="94" selection-end-column="133" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>ArangoGraph</find>
+      <find>getbi</find>
+      <find>getbiggest</find>
+      <find>createorupdateedge</find>
+      <find>bigge</find>
+      <find>getDisk</find>
+      <find>biggest</find>
+      <find>getEdge</find>
+      <find>MaxentTagger</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="Abhi" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/edu/bu/ec504/spr19/group3/database/Database.java" />
+        <option value="$PROJECT_DIR$/src/edu/bu/ec504/spr19/group3/Main.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/bu/ec504/spr19/group3/database/Node.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/bu/ec504/spr19/group3/list/JList.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/bu/ec504/spr19/group3/tokenizer/TextReader.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/bu/ec504/spr19/group3/tokenizer/ArabicTokenizer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/bu/ec504/spr19/group3/tokenizer/Token.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/bu/ec504/spr19/group3/gui/Gui.form" />
+        <option value="$PROJECT_DIR$/readme.md" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/bu/ec504/spr19/group3/gui/Gui.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/bu/ec504/spr19/group3/highlighter/MyHighlighter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/bu/ec504/spr19/group3/list/MyJList.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/bu/ec504/spr19/group3/database/Database.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/bu/ec504/spr19/group3/tokenizer/Tagger.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/bu/ec504/spr19/group3/tokenizer/ChineseTokenizer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/bu/ec504/spr19/group3/database/Edge.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/bu/ec504/spr19/group3/tokenizer/ArTokenizer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/bu/ec504/spr19/group3/tokenizer/ArTokenizer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/bu/ec504/spr19/group3/tokenizer/GermanTokenizer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/bu/ec504/spr19/group3/tokenizer/GermanTokenizer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/bu/ec504/spr19/group3/gui/UnifiedGui.form" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/bu/ec504/spr19/group3/tokenizer/Tokenizer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/bu/ec504/spr19/group3/gui/UnifiedGui.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/bu/ec504/spr19/group3/speechRecognition/textToSpeech.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/bu/ec504/spr19/group3/speechRecognition/speechToText.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/bu/ec504/spr19/group3/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/bu/ec504/spr19/group3/checker/Checker.java" />
+        <option value="$PROJECT_DIR$/install.txt" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="edu.bu.ec504.spr19.group3" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="x" value="141" />
+    <option name="y" value="95" />
+    <option name="width" value="1717" />
+    <option name="height" value="965" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="edu.bu.ec504.spr19.group3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="edu.bu.ec504.spr19.group3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="edu.bu.ec504.spr19.group3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="edu.bu.ec504.spr19.group3" type="462c0819:PsiDirectoryNode" />
+              <item name="external_files" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="edu.bu.ec504.spr19.group3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="edu.bu.ec504.spr19.group3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="edu.bu.ec504.spr19.group3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="edu.bu.ec504.spr19.group3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="edu.bu.ec504.spr19.group3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="edu.bu.ec504.spr19.group3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="edu.bu.ec504.spr19.group3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="edu.bu.ec504.spr19.group3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="group3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="edu.bu.ec504.spr19.group3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="edu.bu.ec504.spr19.group3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="group3" type="462c0819:PsiDirectoryNode" />
+              <item name="checker" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="edu.bu.ec504.spr19.group3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="edu.bu.ec504.spr19.group3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="group3" type="462c0819:PsiDirectoryNode" />
+              <item name="database" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="edu.bu.ec504.spr19.group3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="edu.bu.ec504.spr19.group3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="group3" type="462c0819:PsiDirectoryNode" />
+              <item name="gui" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="edu.bu.ec504.spr19.group3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="edu.bu.ec504.spr19.group3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="group3" type="462c0819:PsiDirectoryNode" />
+              <item name="highlighter" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="edu.bu.ec504.spr19.group3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="edu.bu.ec504.spr19.group3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="group3" type="462c0819:PsiDirectoryNode" />
+              <item name="speechRecognition" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="edu.bu.ec504.spr19.group3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="edu.bu.ec504.spr19.group3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="group3" type="462c0819:PsiDirectoryNode" />
+              <item name="tokenizer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="edu.bu.ec504.spr19.group3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="edu.bu.ec504.spr19.group3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="group3" type="462c0819:PsiDirectoryNode" />
+              <item name="webcrawler" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="MANAGE_IGNORE_FILES_PROPERTY" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="add_unversioned_files" value="true" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555990993518" />
+    <property name="ghcModFlags" value="" />
+    <property name="ghcModPath" value="$USER_HOME$/.cabal/bin/ghc-mod" />
+    <property name="ghcModiFlags" value=" legacy-interactive" />
+    <property name="ghcModiPath" value="$USER_HOME$/.cabal/bin/ghc-mod" />
+    <property name="ghcModiTimeout" value="5000" />
+    <property name="hindentFlags" value="" />
+    <property name="hindentPath" value="" />
+    <property name="hlintFlags" value="" />
+    <property name="hlintPath" value="$USER_HOME$/.cabal/bin/hlint" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/external_files" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="stylishHaskellFlags" value="" />
+    <property name="stylishHaskellPath" value="$USER_HOME$/.cabal/bin/stylish-haskell" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/external_files" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Run Main">
+    <configuration name="Run Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="edu.bu.ec504.spr19.group3.Main" />
+      <module name="edu.bu.ec504.spr19.group3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.bu.ec504.spr19.group3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Run Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="edu.bu.ec504.spr19.group3.Main" />
+      <module name="edu.bu.ec504.spr19.group3" />
+      <option name="PROGRAM_PARAMETERS" value="$PROJECT_DIR$/data" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.bu.ec504.spr19.group3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="speechToText" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.bu.ec504.spr19.group3.speechRecognition.speechToText" />
+      <module name="edu.bu.ec504.spr19.group3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.bu.ec504.spr19.group3.speechRecognition.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.bu.ec504.spr19.group3.webcrawler.test" />
+      <module name="edu.bu.ec504.spr19.group3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.bu.ec504.spr19.group3.webcrawler.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="textToSpeech" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.bu.ec504.spr19.group3.speechRecognition.textToSpeech" />
+      <module name="edu.bu.ec504.spr19.group3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.bu.ec504.spr19.group3.speechRecognition.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Run Main" />
+      <item itemvalue="Application.speechToText" />
+      <item itemvalue="Application.test" />
+      <item itemvalue="Application.textToSpeech" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Run Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fee1026b-2962-402e-b4aa-8f817ea55d29" name="Default Changelist" comment="" />
+      <created>1553268254859</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1553268254859</updated>
+      <workItem from="1553268258995" duration="1673000" />
+      <workItem from="1553524323278" duration="1325000" />
+      <workItem from="1553525671089" duration="12692000" />
+      <workItem from="1556123416107" duration="1760000" />
+      <workItem from="1556125350687" duration="2639000" />
+      <workItem from="1556143899315" duration="1904000" />
+      <workItem from="1556159603280" duration="18907000" />
+      <workItem from="1556401999444" duration="29929000" />
+    </task>
+    <task id="LOCAL-00001" summary="Initializing repository">
+      <created>1553268499392</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1553268499392</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Moved code structure into package">
+      <created>1553268912950</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1553268912950</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added gitignore">
+      <created>1553269048617</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1553269048617</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Added out directory to gitignore">
+      <created>1553269205112</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1553269205112</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Added Database class, restricted use to a singleton">
+      <created>1553525169959</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1553525169959</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Added maven support to project">
+      <created>1553525273299</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1553525273299</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Added the arangoDB driver to the dependency list">
+      <created>1553525841404</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1553525841404</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Created the methods to insert and increment an arbitrary node in the graph.">
+      <created>1553529669611</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1553529669611</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Added logging capabilities to the db connection">
+      <created>1553530508333</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1553530508333</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Updated the return type of a node frequency, as well as added authentication to the db connection">
+      <created>1553530548425</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1553530548425</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Moved logging into the database singleton">
+      <created>1553531199775</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1553531199775</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Added the host address of the database to the Database singleton">
+      <created>1553548798200</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1553548798200</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Added the ability to add and manipulate edges">
+      <created>1553551707700</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1553551707700</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Implemented a checker that stores all of the suspicions and corresponding phrases for the appropriate suspicions.">
+      <created>1553564490387</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1553564490387</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Fixed checker to take tokenized list of lists, added a print function, still need to sort.">
+      <created>1553615229219</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1553615229220</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Checker prints from 100 to 0, most suspicious to least suspicious phrases.">
+      <created>1553636166686</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1553636166686</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Added a constructor and made everything private.">
+      <created>1553729013629</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1553729013630</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Implemented Tuples">
+      <created>1553737452168</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1553737452168</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Implemented n-grams and added a highlighter">
+      <created>1555946968503</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1555946968503</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Checker now outputs and prints list, highlighter highlights suspicions">
+      <created>1555961281231</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1555961281231</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Checker now outputs and prints list, highlighter highlights suspicions">
+      <created>1555962564835</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1555962564835</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Checker takes in Tokens instead of Strings">
+      <created>1555976376939</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1555976376939</updated>
+    </task>
+    <task id="LOCAL-00023" summary="List for selection implemented">
+      <created>1555982833526</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1555982833526</updated>
+    </task>
+    <task id="LOCAL-00024" summary="List for selection implemented">
+      <created>1555986098685</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1555986098685</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Checker now implements lists and not arraylists">
+      <created>1555988196692</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1555988196692</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Added install.txt">
+      <created>1555991732638</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1555991732638</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Added readme">
+      <created>1555991875115</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1555991875115</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="71152000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1920" height="1080" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13782051" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49962208" weight="0.32980132" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.66364324" visible="true" weight="0.38172042" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49811035" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.33635676" side_tool="true" weight="0.33377483" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.48072562" weight="0.3236559" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" weight="0.32959402" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17082389" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49962208" weight="0.32980132" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.66364324" weight="0.33377483" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49811035" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.33635676" side_tool="true" weight="0.33377483" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.48072562" visible="true" weight="0.3245033" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" weight="0.32959402" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.props" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initializing repository" />
+    <MESSAGE value="Moved code structure into package" />
+    <MESSAGE value="Added gitignore" />
+    <MESSAGE value="Added out directory to gitignore" />
+    <MESSAGE value="Added Database class, restricted use to a singleton" />
+    <MESSAGE value="Added maven support to project" />
+    <MESSAGE value="Added the arangoDB driver to the dependency list" />
+    <MESSAGE value="Created the methods to insert and increment an arbitrary node in the graph." />
+    <MESSAGE value="Added logging capabilities to the db connection" />
+    <MESSAGE value="Updated the return type of a node frequency, as well as added authentication to the db connection" />
+    <MESSAGE value="Moved logging into the database singleton" />
+    <MESSAGE value="Added the host address of the database to the Database singleton" />
+    <MESSAGE value="Added the ability to add and manipulate edges" />
+    <MESSAGE value="Implemented a checker that stores all of the suspicions and corresponding phrases for the appropriate suspicions." />
+    <MESSAGE value="Fixed checker to take tokenized list of lists, added a print function, still need to sort." />
+    <MESSAGE value="Checker prints from 100 to 0, most suspicious to least suspicious phrases." />
+    <MESSAGE value="Added a constructor and made everything private." />
+    <MESSAGE value="Implemented Tuples" />
+    <MESSAGE value="Implemented n-grams and added a highlighter" />
+    <MESSAGE value="Checker now outputs and prints list, highlighter highlights suspicions" />
+    <MESSAGE value="Checker takes in Tokens instead of Strings" />
+    <MESSAGE value="List for selection implemented" />
+    <MESSAGE value="Checker now implements lists and not arraylists" />
+    <MESSAGE value="Added install.txt" />
+    <MESSAGE value="Added readme" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added readme" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.idea/compiler.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="10" lean-forward="true" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/database/Database.java" />
+    <entry file="file://$PROJECT_DIR$/src/Main.java" />
+    <entry file="uml://MAVEN/group3:edu.bu.ec504.spr19.group3:1.0.0" />
+    <entry file="jar://$MAVEN_REPOSITORY$/com/arangodb/velocypack/1.0.10/velocypack-1.0.10.jar!/com/arangodb/velocypack/internal/DefaultVPackBuilderOptions.class" />
+    <entry file="jar://$MAVEN_REPOSITORY$/com/arangodb/velocypack/1.0.10/velocypack-1.0.10.jar!/com/arangodb/velocypack/VPack.class" />
+    <entry file="jar://$MAVEN_REPOSITORY$/com/arangodb/arangodb-java-driver/4.2.2/arangodb-java-driver-4.2.2.jar!/com/arangodb/ArangoDB.class" />
+    <entry file="jar://$MAVEN_REPOSITORY$/com/arangodb/arangodb-java-driver/4.2.2/arangodb-java-driver-4.2.2.jar!/com/arangodb/model/DocumentReadOptions.class" />
+    <entry file="jar://$MAVEN_REPOSITORY$/com/arangodb/arangodb-java-driver/4.2.2/arangodb-java-driver-4.2.2.jar!/com/arangodb/internal/InternalArangoDatabase.class" />
+    <entry file="jar://$MAVEN_REPOSITORY$/com/arangodb/arangodb-java-driver/4.2.2/arangodb-java-driver-4.2.2.jar!/com/arangodb/internal/InternalArangoGraph.class" />
+    <entry file="jar://$MAVEN_REPOSITORY$/com/arangodb/arangodb-java-driver/4.2.2/arangodb-java-driver-4.2.2.jar!/com/arangodb/internal/ArangoExecutor.class" />
+    <entry file="jar://$MAVEN_REPOSITORY$/com/arangodb/arangodb-java-driver/4.2.2/arangodb-java-driver-4.2.2.jar!/com/arangodb/internal/InternalArangoVertexCollection.class" />
+    <entry file="jar://$MAVEN_REPOSITORY$/com/arangodb/arangodb-java-driver/4.2.2/arangodb-java-driver-4.2.2.jar!/com/arangodb/ArangoVertexCollection.class" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="19" column="31" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/util/function/Consumer.java" />
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/util/ArrayList.java" />
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.desktop/java/awt/Color.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/bu/ec504/spr19/group3/list/JList.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/bu/ec504/spr19/group3/gui/Gui.form">
+      <provider selected="true" editor-type-id="ui-designer" />
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.desktop/javax/swing/DefaultButtonModel.java" />
+    <entry file="file://$PROJECT_DIR$/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="3404">
+            <caret line="148" selection-start-line="148" selection-end-line="148" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/bu/ec504/spr19/group3/webcrawler/Spider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/bu/ec504/spr19/group3/webcrawler/Crawl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="23" column="37" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/bu/ec504/spr19/group3/webcrawler/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="447">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/bu/ec504/spr19/group3/database/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="40" column="28" selection-start-line="40" selection-start-column="28" selection-end-line="40" selection-end-column="28" />
+          <folding>
+            <element signature="e#639#640#0" expanded="true" />
+            <element signature="e#671#672#0" expanded="true" />
+            <element signature="e#799#800#0" expanded="true" />
+            <element signature="e#836#837#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/arangodb/arangodb-java-driver/4.2.2/arangodb-java-driver-4.2.2-sources.jar!/com/arangodb/util/MapBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="44" selection-start-line="44" selection-end-line="44" />
+          <folding>
+            <element signature="e#1117#1118#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/bu/ec504/spr19/group3/list/MyJList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="24" column="24" lean-forward="true" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/bu/ec504/spr19/group3/highlighter/MyHighlighter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1265">
+          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/bu/ec504/spr19/group3/gui/Gui.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="96" column="8" lean-forward="true" selection-start-line="96" selection-start-column="8" selection-end-line="100" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/bu/ec504/spr19/group3/database/Database.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="53" column="41" lean-forward="true" selection-start-line="53" selection-start-column="41" selection-end-line="53" selection-end-column="41" />
+          <folding>
+            <element signature="e#8730#8731#0" expanded="true" />
+            <element signature="e#8778#8779#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/bu/ec504/spr19/group3/tokenizer/LanguageCheck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/bu/ec504/spr19/group3/tokenizer/Tagger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="174" lean-forward="true" selection-start-line="6" selection-start-column="174" selection-end-line="6" selection-end-column="174" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/bu/ec504/spr19/group3/database/Edge.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="76" column="35" selection-start-line="76" selection-start-column="35" selection-end-line="76" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2615#2616#0" expanded="true" />
+            <element signature="e#2656#2657#0" expanded="true" />
+            <element signature="e#2765#2766#0" expanded="true" />
+            <element signature="e#2797#2798#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/external_files/english-left3words-distsim.tagger">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="82392" selection-end-column="174" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/external_files/english-left3words-distsim.tagger.props">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/bu/ec504/spr19/group3/tokenizer/ArTokenizer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="90" column="126" selection-start-line="90" selection-start-column="126" selection-end-line="90" selection-end-column="126" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/bu/ec504/spr19/group3/tokenizer/GermanTokenizer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="439">
+          <caret line="94" column="133" lean-forward="true" selection-start-line="94" selection-start-column="47" selection-end-line="94" selection-end-column="133" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/bu/ec504/spr19/group3/speechRecognition/speechToText.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="20" column="25" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/My Project  504-b81d06c45951.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/bu/ec504/spr19/group3/tokenizer/Tokenizer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="83" column="147" lean-forward="true" selection-start-line="83" selection-start-column="47" selection-end-line="83" selection-end-column="147" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/bu/ec504/spr19/group3/tokenizer/ChineseTokenizer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="18" column="61" selection-start-line="18" selection-start-column="61" selection-end-line="18" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/bu/ec504/spr19/group3/speechRecognition/textToSpeech.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="38" column="49" lean-forward="true" selection-start-line="38" selection-start-column="49" selection-end-line="38" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/bu/ec504/spr19/group3/gui/UnifiedGui.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="155" column="17" lean-forward="true" selection-start-line="155" selection-start-column="17" selection-end-line="155" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#3807#3808#0" expanded="true" />
+            <element signature="e#3886#3887#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/bu/ec504/spr19/group3/gui/UnifiedGui.form">
+      <provider selected="true" editor-type-id="ui-designer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/bu/ec504/spr19/group3/checker/Checker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1610">
+          <caret line="95" column="11" lean-forward="true" selection-start-line="95" selection-start-column="11" selection-end-line="95" selection-end-column="11" />
+          <folding>
+            <element signature="e#2914#2915#0" expanded="true" />
+            <element signature="e#2993#2994#0" expanded="true" />
+            <element signature="e#3358#3359#0" expanded="true" />
+            <element signature="e#3437#3438#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/external_files/speechToText.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/bu/ec504/spr19/group3/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="36" column="56" lean-forward="true" selection-start-line="36" selection-start-column="56" selection-end-line="36" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/install.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="383">
+          <caret line="53" column="39" selection-start-line="53" selection-start-column="39" selection-end-line="53" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>edu.bu.ec504.spr19.group3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.arangodb:arangodb-java-driver:4.2.2</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

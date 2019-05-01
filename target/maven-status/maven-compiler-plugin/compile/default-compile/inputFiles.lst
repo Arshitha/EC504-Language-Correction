@@ -1,0 +1,11 @@
+/home/jbassin/Documents/College/Spring_2019/EC504/finalProject/edu.bu.ec504.spr19.group3/src/main/java/edu/bu/ec504/spr19/group3/webcrawler/WebCrawler.java
+/home/jbassin/Documents/College/Spring_2019/EC504/finalProject/edu.bu.ec504.spr19.group3/src/main/java/edu/bu/ec504/spr19/group3/database/Node.java
+/home/jbassin/Documents/College/Spring_2019/EC504/finalProject/edu.bu.ec504.spr19.group3/src/main/java/edu/bu/ec504/spr19/group3/tokenizer/Tagger.java
+/home/jbassin/Documents/College/Spring_2019/EC504/finalProject/edu.bu.ec504.spr19.group3/src/main/java/edu/bu/ec504/spr19/group3/tokenizer/TextReader.java
+/home/jbassin/Documents/College/Spring_2019/EC504/finalProject/edu.bu.ec504.spr19.group3/src/main/java/edu/bu/ec504/spr19/group3/Main.java
+/home/jbassin/Documents/College/Spring_2019/EC504/finalProject/edu.bu.ec504.spr19.group3/src/main/java/edu/bu/ec504/spr19/group3/tokenizer/Tokenizer.java
+/home/jbassin/Documents/College/Spring_2019/EC504/finalProject/edu.bu.ec504.spr19.group3/src/main/java/edu/bu/ec504/spr19/group3/webcrawler/WebCrawler_prototype_runnable.java
+/home/jbassin/Documents/College/Spring_2019/EC504/finalProject/edu.bu.ec504.spr19.group3/src/main/java/edu/bu/ec504/spr19/group3/database/Database.java
+/home/jbassin/Documents/College/Spring_2019/EC504/finalProject/edu.bu.ec504.spr19.group3/src/main/java/edu/bu/ec504/spr19/group3/database/Edge.java
+/home/jbassin/Documents/College/Spring_2019/EC504/finalProject/edu.bu.ec504.spr19.group3/src/main/java/edu/bu/ec504/spr19/group3/tokenizer/Token.java
+/home/jbassin/Documents/College/Spring_2019/EC504/finalProject/edu.bu.ec504.spr19.group3/src/main/java/edu/bu/ec504/spr19/group3/checker/Checker.java

@@ -1,0 +1,54 @@
+
+Pre-conditions:
+	- Hardware, peripherals, and operating system needed to run your code.
+		The user would require working speakers to use the speech to text and text to speech feature.
+
+		In our testing phase, we didn't see any issues with different Operating Systems.
+
+		Throughout the development phase, we used IntelliJ as our IDE and we strongly recommend that the user runs it on IntelliJ. Since we tested our project on IntelliJ, we aren't providing any support for other IDEs.
+
+Supporting files:
+	- The tokenizer requires the model files for tagger and tagger properties for different languages. These were downloaded from https://nlp.stanford.edu/software/tagger.html  	  freely and legally. These files are included as part of our source code. However, the user would have to provide absolute path to the tokenizer directory within the src 	  directory in the main class.
+
+	- A list of non-standard libraries needed for your project to run, including:
+
+	- All non-standard libraries required are added as maven dependencies. So, the user doesn't have to do anything other than cloning our repo and running it on 			IntelliJ!
+
+Examples of how to use your project:
+	Input: "Hello my name is John Snow."
+	Output: : "is John Snow" 100.0
+		  "hello my" 28.571
+		  "my name"  1.397
+		  "name is"  1.7391
+
+	Input: "This is strange so choice word."
+	Output: : "strange so choice word" 100.0
+		  "is strange" 15.966
+		  "this is"  0.0774
+
+Descriptions of testing patterns, and instructions on how to exercise them:
+	Unit tests
+	Crawler:
+		The crawler was tested by not providing a proper URL and this error was handled by checking if the HTTP Response Code is equal 200.
+		Tested to see that only text is extracted and not images or any other type of data comes along.
+
+	Tokenizer:
+		The tokenizer's functionality was tested using sample text files that contained strings from different languages as well as from randomly selected text from 			different webpages.
+
+	Database: Before integrating with the crawler and the tokenizer, the database was tested using the gutenberg texts for creation of nodes and edges, updating the edge 			frequencies as and when the same words were seen. Also, connection to the database was tested after hosting it on the google cloud.
+
+	Checker: We tested the checker with different randomly chosen strings. We arrived at our threshold for suspicious and non-suspicious phrases by an exhaustive manual search.
+		system tests: As part of system testing, we integrated all of the four modules, that are, Crawler, Tokenizer, Database and Checker and tested the entire pipeline for 		its functionality. The crawler was running constantly and text from each page that it crawled was sent to the tokenizer and the tokens were then loaded into the 		database. On the checker side, the file entered by the user is tokenized and the database is queried for these tokens along with their bigram frequencies.
+
+Execution:
+
+	Step 1: Clone the repository from bitbucket.
+	Step 2: Make sure that the SDK is set up to 1.8 while configuring the project.
+	Step 3: Copy the absolute path of the "external_files" in the repository.
+	Step 4: In the main class of the "src" directory, paste the copied path to the ABSOLUTE_EXTERNAL_FILES_PATH variable. Make sure that you copied the path of the "external_files" directory, and not a file in it.
+	Step 5: Click on Run on the top right corner in INTELLIJ IDEA.
+	Step 5: If you run into any issues, then please contact any one of us.
+			Arshitha Basavaraj (arshitha@bu.edu)
+			Joshua Bassin (jbassin@bu.edu)
+			Aixa Davila (taraviah@bu.edu)
+			Abhi Vora (abhivora@bu.edu)
